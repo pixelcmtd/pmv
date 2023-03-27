@@ -1,3 +1,3 @@
-module github.com/chrissxYT/pmv
+module github.com/pixelcmtd/pmv
 
 go 1.16
